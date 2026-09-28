@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://tmp0810.github.io/sitemap.xml
