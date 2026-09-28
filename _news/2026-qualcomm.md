@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qualcomm AI Research
-date: 2026-08-01 12:00:00+0700
+date: 2026-08-17 12:00:00+0700
 inline: true
 ---
 

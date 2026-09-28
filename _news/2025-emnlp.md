@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMNLP 2025
-date: 2025-08-21 12:00:00+0700
+date: 2025-08-20 12:00:00+0700
 inline: true
 ---
 

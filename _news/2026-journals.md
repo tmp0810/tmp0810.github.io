@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journal Publications
-date: 2026-03-15 12:00:00+0700
+date: 2026-03-30 12:00:00+0700
 inline: true
 ---
 
