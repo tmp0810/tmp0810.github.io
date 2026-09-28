@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: tmp0810 # the website title (if blank, full name will be used instead)
+title: Minh-Phuc Truong # the website title (if blank, full name will be used instead)
 first_name: Minh-Phuc
 middle_name:
 last_name: Truong
@@ -156,7 +156,7 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -326,6 +326,7 @@ filtered_bibtex_keywords:
     inspirehep_id,
     pdf,
     poster,
+    paper,
     preview,
     selected,
     slides,
