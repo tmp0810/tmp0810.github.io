@@ -29,4 +29,4 @@ I am currently a Research Student at BK.AI, an independent research collaborator
 - Representation Learning and Model Distillation
 - Efficient Adaptation of Foundation Models
 
-For more details, see my [research projects](/research/), [publications](/publications/), or [CV](/cv/).
+For more details, see my [publications](/publications/) or [CV](/cv/).

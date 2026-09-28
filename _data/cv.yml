@@ -41,8 +41,8 @@
         - One accepted publication at NeurIPS 2026
     - title: AI Research Resident
       institution: Qualcomm AI Research
-      location: Remote
-      year: Oct 2025 - Present
+      location: Hanoi, Vietnam
+      year: Aug 2026 - Present
       description:
         - "Supervisor: Dr. Toan Tran"
         - Efficient adaptation of foundation models
@@ -52,20 +52,6 @@
       year: Aug 2025 - Oct 2025
       description:
         - Teaching Assistant for Machine Learning and Generative AI courses
-
-- title: Publications
-  type: list
-  contents:
-    - <b>Amortized Optimal Transport from Sliced Potentials.</b> NeurIPS 2026.
-    - <b>EMO:</b> Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments. EMNLP 2025 Main Conference.
-    - <b>SUGAR:</b> Spectral and Geometry-Aware Alignment for Matryoshka Representation Distillation. EMNLP 2026 Main Conference.
-    - <b>MoL:</b> Mixture of Layers in Cross-Tokenizer Embedding Model Distillation. Knowledge-Based Systems, 2026.
-    - <b>MIPIC:</b> Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining. ACL 2026 Findings.
-    - <b>SAMD:</b> Span-Aware Matryoshka Distillation for Cross-Tokenizer Embedding Models. Machine Learning, 2026.
-    - <b>MOEMD:</b> Multi-Faceted Distillation via Mixture-of-Experts for Cross-Tokenizer Embedding Models. Under review.
-    - <b>OrthoSAM:</b> Orthogonal Perturbations for Sharpness-Aware Minimization. Under review.
-    - <b>Spectral Flattening Is Not Enough:</b> When Muon Improves Learning Rates and Convergence. Under review.
-    - <b>Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation.</b> Under review.
 
 - title: Awards and Achievements
   type: time_table
