@@ -5,4 +5,4 @@ date: 2026-08-20 12:00:00+0700
 inline: true
 ---
 
-Our paper **SUGAR: Spectral and Geometry-Aware Alignment for Matryoshka Representation Distillation** was accepted to **EMNLP 2026 Main Conference**.
+**1 paper**, **SUGAR: Spectral and Geometry-Aware Alignment for Matryoshka Representation Distillation**, was accepted to **EMNLP 2026 Main Conference**.
