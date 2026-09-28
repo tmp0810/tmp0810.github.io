@@ -9,4 +9,4 @@ category: efficient-learning
 
 This project investigates efficient mechanisms for adapting Transformer-based foundation models while reducing training and deployment costs.
 
-**Related work:** *Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation* (under review).
+**Related work:** _Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation_ (under review).

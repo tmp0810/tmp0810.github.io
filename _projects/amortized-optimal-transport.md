@@ -11,6 +11,6 @@ This project studies how to learn **amortized optimal transport** from sliced po
 
 **Topics:** Optimal Transport, Sliced Optimal Transport, Amortized Learning  
 **Collaborator:** [Khai Nguyen](https://khainb.github.io/)  
-**Outcome:** *Amortized Optimal Transport from Sliced Potentials*, NeurIPS 2026.
+**Outcome:** _Amortized Optimal Transport from Sliced Potentials_, NeurIPS 2026.
 
 [Read the paper on arXiv](https://arxiv.org/abs/2604.15114)

@@ -10,7 +10,7 @@ nav_order: 4
 ## Research Student
 
 **The International Research Center for Artificial Intelligence (BK.AI)** — Hanoi, Vietnam  
-*August 2024 – Present*
+_August 2024 – Present_
 
 - Supervised by Dr. Ngo Van Linh (HUST) and Dr. Trung Le (Monash University).
 - Researching low-resource methods for natural language processing, machine learning, and deep learning.
@@ -19,16 +19,16 @@ nav_order: 4
 ## Independent Research Collaborator
 
 **Optimal Transport Research** — Remote  
-*October 2025 – Present*
+_October 2025 – Present_
 
 - Collaborating with [Asst. Prof. Khai Nguyen](https://khainb.github.io/) at Texas A&M University.
 - Researching optimal transport and sliced optimal transport.
-- Co-authored *Amortized Optimal Transport from Sliced Potentials*, accepted at NeurIPS 2026.
+- Co-authored _Amortized Optimal Transport from Sliced Potentials_, accepted at NeurIPS 2026.
 
 ## AI Research Resident
 
 **Qualcomm AI Research** — Remote  
-*October 2025 – Present*
+_October 2025 – Present_
 
 - Supervised by Dr. Toan Tran.
 - Researching efficient adaptation of foundation models.
@@ -36,6 +36,6 @@ nav_order: 4
 ## Teaching Assistant
 
 **Vingroup Big Data Institute (VinBigData)** — Hanoi, Vietnam  
-*August 2025 – October 2025*
+_August 2025 – October 2025_
 
 - Served as a Teaching Assistant for Machine Learning and Generative AI courses.
