@@ -1,0 +1,98 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Minh-Phuc Truong
+    - name: Location
+      value: Hanoi, Vietnam
+    - name: Email
+      value: <a href="mailto:truongminhphuc08102005@gmail.com">truongminhphuc08102005@gmail.com</a>
+    - name: Research Interests
+      value: Efficient Machine Learning, Optimal Transport, Representation Learning, Model Distillation, and Foundation Model Adaptation
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor in Data Science and AI
+      institution: Hanoi University of Science and Technology (HUST)
+      location: Hanoi, Vietnam
+      year: Aug 2023 - Present
+      description:
+        - "Cumulative GPA: 3.84/4.00"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Student
+      institution: The International Research Center for Artificial Intelligence (BK.AI)
+      location: Hanoi, Vietnam
+      year: Aug 2024 - Present
+      description:
+        - "Supervisors: Dr. Ngo Van Linh (HUST) and Dr. Trung Le (Monash University)"
+        - Low-resource methods for NLP, machine learning, and deep learning
+        - Six accepted publications and additional work under review
+    - title: Independent Research Collaborator
+      institution: Optimal Transport Research
+      location: Remote
+      year: Oct 2025 - Present
+      description:
+        - "Supervisor: Asst. Prof. Khai Nguyen (Texas A&M University)"
+        - Optimal Transport and Sliced Optimal Transport
+        - One accepted publication at NeurIPS 2026
+    - title: AI Research Resident
+      institution: Qualcomm AI Research
+      location: Remote
+      year: Oct 2025 - Present
+      description:
+        - "Supervisor: Dr. Toan Tran"
+        - Efficient adaptation of foundation models
+    - title: Teaching Assistant
+      institution: Vingroup Big Data Institute (VinBigData)
+      location: Hanoi, Vietnam
+      year: Aug 2025 - Oct 2025
+      description:
+        - Teaching Assistant for Machine Learning and Generative AI courses
+
+- title: Publications
+  type: list
+  contents:
+    - <b>Amortized Optimal Transport from Sliced Potentials.</b> NeurIPS 2026.
+    - <b>EMO:</b> Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments. EMNLP 2025 Main Conference.
+    - <b>SUGAR:</b> Spectral and Geometry-Aware Alignment for Matryoshka Representation Distillation. EMNLP 2026 Main Conference.
+    - <b>MoL:</b> Mixture of Layers in Cross-Tokenizer Embedding Model Distillation. Knowledge-Based Systems, 2026.
+    - <b>MIPIC:</b> Matryoshka Representation Learning via Self-Distilled Intra-Relational and Progressive Information Chaining. ACL 2026 Findings.
+    - <b>SAMD:</b> Span-Aware Matryoshka Distillation for Cross-Tokenizer Embedding Models. Machine Learning, 2026.
+    - <b>MOEMD:</b> Multi-Faceted Distillation via Mixture-of-Experts for Cross-Tokenizer Embedding Models. Under review.
+    - <b>OrthoSAM:</b> Orthogonal Perturbations for Sharpness-Aware Minimization. Under review.
+    - <b>Spectral Flattening Is Not Enough:</b> When Muon Improves Learning Rates and Convergence. Under review.
+    - <b>Rethinking State-Control Dynamics for Unified and Efficient Transformer Adaptation.</b> Under review.
+
+- title: Awards and Achievements
+  type: time_table
+  contents:
+    - title: Odon Vallet Scholarship 2026
+      year: "2026"
+      description:
+        - Awarded for outstanding research achievement and strong academic potential
+    - title: HUST Academic Scholarship
+      year: "2026"
+      description:
+        - Awarded for excellent academic and conduct results in Semesters 2024.2 and 2025.1
+    - title: HUST Academic Excellence Award 2024-2025
+      year: "2025"
+      description:
+        - Awarded for outstanding academic performance and conduct in the 2024-2025 academic year
+
+- title: Research Expertise
+  type: list
+  contents:
+    - Efficient methods for natural language processing, machine learning, and deep learning
+    - Computational Optimal Transport
+
+- title: References
+  type: list
+  contents:
+    - <b>Asst. Prof. Khai Nguyen</b>, Department of Statistics, Texas A&M University
+    - <b>Dr. Ngo Van Linh</b>, Lecturer, Hanoi University of Science and Technology
+    - <b>Dr. Trung Le</b>, Senior Lecturer, Monash University
+    - <b>Dr. Toan Tran</b>, Senior Staff, Qualcomm AI Research

@@ -1,0 +1,22 @@
+NeurIPS:
+  url: https://neurips.cc/
+  color: "#0048BA"
+
+EMNLP:
+  url: https://2026.emnlp.org/
+  color: "#5B4B8A"
+
+ACL:
+  url: https://www.aclweb.org/
+  color: "#2F6B8A"
+
+KBS:
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  color: "#A61B29"
+
+MLJ:
+  url: https://link.springer.com/journal/10994
+  color: "#5B7F3B"
+
+Preprint:
+  color: "#6C757D"
