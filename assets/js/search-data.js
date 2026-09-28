@@ -9,33 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
-          title: "Research",
-          description: "Research projects in efficient learning, optimal transport, model distillation, and optimization.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-experience",
-          title: "Experience",
-          description: "Research and teaching experience.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experience/";
-          },
-        },{id: "nav-awards",
-          title: "Awards",
-          description: "Scholarships and academic distinctions.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/awards/";
           },
         },{id: "nav-blog",
           title: "Blog",
@@ -46,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Academic background, research experience, publications, and awards.",
+          description: "Academic background, research experience, and awards.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -54,11 +33,11 @@ ninja.data = [{
         },{id: "news-our-paper-emo-embedding-model-distillation-via-intra-model-relation-and-optimal-transport-alignments-was-accepted-to-emnlp-2025-main-conference",
           title: 'Our paper EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments...',
           description: "",
-          section: "News",},{id: "news-i-joined-qualcomm-ai-research-as-an-ai-research-resident-working-on-efficient-adaptation-of-foundation-models",
-          title: 'I joined Qualcomm AI Research as an AI Research Resident, working on efficient...',
-          description: "",
           section: "News",},{id: "news-our-paper-mipic-was-accepted-to-acl-2026-findings-and-mol-and-samd-were-accepted-to-knowledge-based-systems-and-machine-learning",
           title: 'Our paper MIPIC was accepted to ACL 2026 Findings, and MoL and SAMD...',
+          description: "",
+          section: "News",},{id: "news-i-joined-qualcomm-ai-research-as-an-ai-research-resident-working-on-efficient-adaptation-of-foundation-models",
+          title: 'I joined Qualcomm AI Research as an AI Research Resident, working on efficient...',
           description: "",
           section: "News",},{id: "news-two-papers-were-accepted-to-emnlp-2026-main-conference-including-sugar-spectral-and-geometry-aware-alignment-for-matryoshka-representation-distillation",
           title: 'Two papers were accepted to EMNLP 2026 Main Conference, including SUGAR: Spectral and...',
