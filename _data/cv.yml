@@ -7,8 +7,6 @@
       value: Hanoi, Vietnam
     - name: Email
       value: <a href="mailto:truongminhphuc08102005@gmail.com">truongminhphuc08102005@gmail.com</a>
-    - name: Research Interests
-      value: Efficient Machine Learning, Optimal Transport, Representation Learning, Model Distillation, and Foundation Model Adaptation
 
 - title: Education
   type: time_table
@@ -29,7 +27,7 @@
       year: Aug 2024 - Present
       description:
         - "Supervisors: Dr. Ngo Van Linh (HUST) and Dr. Trung Le (Monash University)"
-        - Low-resource methods for NLP, machine learning, and deep learning
+        - Low-resource methods for NLP, ML, and DL
         - Six accepted publications and additional work under review
     - title: Independent Research Collaborator
       institution: Optimal Transport Research

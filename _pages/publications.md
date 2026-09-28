@@ -15,7 +15,11 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[published=true]* %}
+
+<h2>Preprints</h2>
+
+{% bibliography --group_by none --query @*[preprint=true]* %}
 
 </div>
 

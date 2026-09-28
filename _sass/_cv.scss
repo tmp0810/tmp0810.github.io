@@ -45,6 +45,30 @@ a.btncv:hover {
 p.location {
   font-size: 0.7rem;
   white-space: nowrap;
+  margin: 0.35rem 0 0;
+  text-align: center;
+}
+
+div.cv-time-column {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+table.cv-time-table {
+  width: 100%;
+  margin: 0 auto;
+
+  td {
+    text-align: center;
+  }
+}
+
+span.cv-time-badge {
+  min-width: 9rem;
+  max-width: 100%;
+  text-align: center;
+  white-space: normal;
 }
 
 i.iconlocation {

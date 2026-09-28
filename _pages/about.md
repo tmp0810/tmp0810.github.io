@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researching efficient learning, optimal transport, and representation learning
 
 profile:
   align: right
